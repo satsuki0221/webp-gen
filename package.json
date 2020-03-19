@@ -1,0 +1,22 @@
+{
+  "name": "webp-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/satsuki0221/webp-gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satsuki0221/webp-gen/issues"
+  },
+  "homepage": "https://github.com/satsuki0221/webp-gen#readme",
+  "dependencies": {
+    "webp-converter": "^2.2.3"
+  }
+}
